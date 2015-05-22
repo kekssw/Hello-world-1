@@ -1,6 +1,6 @@
 # Hello-world
 
 ==============
-Good evening to everybody
+Good night to everybody
 
 (you also can use emoticons :ru:)
